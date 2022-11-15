@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Interactive-Racing-Component/static/css/main.8100eea2.css",
+    "main.js": "/Interactive-Racing-Component/static/js/main.0b5ca794.js",
+    "static/js/787.9c65eeb2.chunk.js": "/Interactive-Racing-Component/static/js/787.9c65eeb2.chunk.js",
+    "static/media/illustration-thank-you.svg": "/Interactive-Racing-Component/static/media/illustration-thank-you.d74a66b551b99ae110b5362ed63106bf.svg",
+    "index.html": "/Interactive-Racing-Component/index.html",
+    "static/media/icon-star.svg": "/Interactive-Racing-Component/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.8100eea2.css.map": "/Interactive-Racing-Component/static/css/main.8100eea2.css.map",
+    "main.0b5ca794.js.map": "/Interactive-Racing-Component/static/js/main.0b5ca794.js.map",
+    "787.9c65eeb2.chunk.js.map": "/Interactive-Racing-Component/static/js/787.9c65eeb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8100eea2.css",
+    "static/js/main.0b5ca794.js"
+  ]
+}
